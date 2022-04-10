@@ -1,6 +1,6 @@
 # Multilingual-and-Multimodal-COVID-19-Fake-News-Dataset : Binary Classification Problem
 ## **Learning Planet Institue Project**
-The materials belong entirely to Learning Planet Institute. Also, the COVID19 dataset, published by Cornell University. The answers are the only things that show my trials and is available in the report and notebook.
+The materials belong entirely to Learning Planet Institute. Also, the COVID19 dataset, published by Cornell University. The answers are the only things that show my trials and are available in the report and notebook.
 
 
 
