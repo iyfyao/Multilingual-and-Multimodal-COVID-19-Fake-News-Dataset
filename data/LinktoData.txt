@@ -1,4 +1,6 @@
 
 LINK TO THE DATASET can be found below : 
 
+Multilingual and Multimodal COVID-19 Fake News Dataset : 
+
 https://drive.google.com/drive/folders/1gd4AvT6BxPRtymmNd9Z7ukyaVhae5s7U?usp=sharing
